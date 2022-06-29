@@ -1,4 +1,4 @@
-# CEH-Practical
+# CEH-Practical Training
 
 ## Must Know Tools
 ...
