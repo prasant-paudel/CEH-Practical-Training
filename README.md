@@ -1,6 +1,6 @@
 # CEH-Practical Training
 
-## Must Know Tools
+## Must Know Topics & Tools
 ...
 
 ## HTB Boxes to Pwn
